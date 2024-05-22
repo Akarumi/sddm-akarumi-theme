@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=sddm-akarumi-theme
+Description=Personal SDDM theme
+Author=Akarumi
+License=NaN
+Type=sddm-theme
+Version=0.2
+Website=https://github.com/Akarumi/sddm-personal-theme
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=sddm-akarumi-theme
+Theme-API=2.0
+QtVersion=6
