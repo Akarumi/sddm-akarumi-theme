@@ -33,4 +33,8 @@ Change the `current` section to the following
 Current=sddm-akarumi-theme
 ```
 ### Extra installation
-Add your profile picture under `Assets/Avatars/username.face.icon`
+User Icon source path: `Assets/Avatars` + `username` + `imgType`
+
+Add your profile picture under `Assets/Avatars/`
+Lastly edit theme.conf and update usernamePlaceholder to your username/filename and set the imgType to corresponding image type, I couldn't get this information out of the userModel yet
+
