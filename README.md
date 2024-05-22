@@ -1,4 +1,4 @@
-# sddm-personal-theme
+# sddm-akarumi-theme
 My personal SDDM Theme
 
 # To-Do List
