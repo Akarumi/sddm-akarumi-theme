@@ -4,12 +4,13 @@ My personal SDDM Theme
 # To-Do List
 | Task | Done |
 |--|--|
-| Choose Background |  |
+| Choose different Background |  |
 | Move Background to assets | x |
 | Rework panel sizing | x |
 | Insert User Avatar | ~ |
 | Rework Components | ~ |
 | Rework Assets | x |
+| Change font / Font selection | |
 
 
 # Preview
